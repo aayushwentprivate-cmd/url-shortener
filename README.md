@@ -32,8 +32,8 @@ A URL shortener built with Node.js and Express.js, enhanced with practical syste
   "originalUrl": "https://www.youtube.com",
   "shortCode": "abc123",
   "clicks": 0
-}```
-
+}
+```
 
 ## Tech Stack
 
